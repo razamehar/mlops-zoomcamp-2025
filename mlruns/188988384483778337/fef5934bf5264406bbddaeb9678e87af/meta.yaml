@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-2025/mlruns/188988384483778337/fef5934bf5264406bbddaeb9678e87af/artifacts
+end_time: 1746841918001
+entry_point_name: ''
+experiment_id: '188988384483778337'
+lifecycle_stage: active
+run_id: fef5934bf5264406bbddaeb9678e87af
+run_name: illustrious-ram-27
+run_uuid: fef5934bf5264406bbddaeb9678e87af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746841897299
+status: 3
+tags: []
+user_id: codespace
